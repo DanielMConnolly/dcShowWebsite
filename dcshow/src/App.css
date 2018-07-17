@@ -1,0 +1,18 @@
+ul{
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+  background:green;
+}
+
+li{
+  display: inline;
+  margin : 20px;
+  text-decoration: none;
+  font-size: 28px;
+  color: white;
+
+}
+.leftSide{
+  float: left;
+}
